@@ -271,7 +271,7 @@
 
     - name: 爱奇艺
       style: green
-      url: https://iqiyi.com/
+      url: https://www.iqiyi.com/
 
     - name: 芒果
       style: orange
@@ -283,7 +283,7 @@
 
     - name: 哔哩哔哩
       style: pink
-      url: https://bilibili.com/
+      url: https://www.bilibili.com/
 
     - name: AcFun
       style: orange
