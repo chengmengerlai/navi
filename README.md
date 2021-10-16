@@ -74,7 +74,7 @@ Jekyll generates your static site to the `_site` directory by default. You can t
 [Here][jekyll-manual-deployment] are some manual ways of achieving this.
 
 ## :hearts: Share the Love
-I&rsquo;ve put a lot of time and effort into making **BYR-Navi** awesome.
+I&rsquo;ve put a lot of time and effort into making **Euarne-Navi** awesome.
 If you love it, you can buy me a coffee.
 Every cup helps!
 I promise it will be a good investment.
