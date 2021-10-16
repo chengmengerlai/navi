@@ -502,6 +502,7 @@
     - name: CloudFlare
       style: basic
       url: https://www.cloudflarne.com/
-    - name: 玩转论坛指南
+    
+    - name: Netlify
       style: basic
-      url: http://bbs.byr.cn/#!article/Talking/5852307
+      url: https://www.netlify.com/
