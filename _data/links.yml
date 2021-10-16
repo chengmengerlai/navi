@@ -264,7 +264,7 @@
     #   style: basic
     #   url: https://tudou.com/
 
-    - name: Youtube
+    - name: YouTube
       icon: youtube red
       style: basic
       url: https://youtube.com/
