@@ -5,7 +5,7 @@
 [![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
 
 # Euarne-Navi
-A Light-Weight and Configurable Navigation [Website][website] Framework (for BYR)
+A Light-Weight and Configurable Navigation [Website][website] Framework
 
 ## :triangular_ruler: Design Philosophy
 This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed **previously** using [GitHub Pages][github-pages] (while currently running on a [Linode][linode] VPS).
