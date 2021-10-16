@@ -1,7 +1,7 @@
 repository: BYR-Navi/BYR-Navi
 repository_url: https://github.com/chengmengerlai/navi
 
-timezone: Asia/Chengdu
+timezone: Asia/Shanghai
 lang: zh_CN
 
 title: Euarne导航 · Euarne-Navi
@@ -14,8 +14,8 @@ established_at: "2020-10-01T00:00+08:00"
 
 author: Euarne
 author_url: https://me.euarne.com
-organization: Euarne
-organization_url: https://org.euarne.com
+organization: Euarne GitHub
+organization_url: https://github.euarne.com
 contact: contact[at]euarne[dot]com
 
 image: /images/logo.png
