@@ -463,46 +463,45 @@
       style: basic
       url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
 
-  - name: 论坛相关
+  - name: 网站建设
     links:
-    - name: 北邮人论坛
+    - name: NameSilo
       style: teal
-      url: http://bbs.byr.cn/
+      url: https://www.namesilo.com/
 
-    - name: 游客版论坛
+    - name: Let's Encrypt
       style: basic
-      url: http://bbs.cloud.icybee.cn/
+      url: https://letsencrypt.org/
 
-    - name: 检索论坛内容
+    - name: Discuz
       style: basic
-      url: http://search.icybee.cn/
+      url: https://gitee.com/Discuz/DiscuzX/
 
-    - name: 检索用户发帖
+    - name: Vercel
       style: basic
-      url: http://search.lovezxp.com/
+      url: https://www.vercel.com/
 
-    - name: 查看论坛数据
+    - name: GitHub Pages
       style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
-
-    - name: 论坛APP
+      url: https://pages.github.com/
+    
+    - name: 论坛App
       icon: app store
       style: black
       url: https://apps.apple.com/cn/app/id1115232927
 
-    - name: 论坛APP
+    - name: 论坛App
       icon: google play
       style: black
       url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
 
-    - name: 论坛官方微博
+    - name: ResellerClub
       style: basic
-      url: http://weibo.com/byrbbs
+      url: https://cn.resellerclub.com/
 
-    - name: 论坛投票区
+    - name: CloudFlare
       style: basic
-      url: http://bbs.byr.cn/#!vote
-
+      url: https://www.cloudflarne.com/
     - name: 玩转论坛指南
       style: basic
       url: http://bbs.byr.cn/#!article/Talking/5852307
