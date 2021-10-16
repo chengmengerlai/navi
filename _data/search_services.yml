@@ -104,7 +104,7 @@
 
 - id: weixinmp
   name: 微信公众号
-  url: http://weixin.sogou.com/weixin?type=1&query={query}&ie=utf8
+  url: https://weixin.sogou.com/weixin?type=1&query={query}&ie=utf8
   shortcut:
     icon: weixin green inverted
     style: black
@@ -112,7 +112,7 @@
 
 - id: weixinarticle
   name: 微信文章
-  url: http://weixin.sogou.com/weixin?type=2&query={query}&ie=utf8
+  url: https://weixin.sogou.com/weixin?type=2&query={query}&ie=utf8
   shortcut:
     icon: weixin green inverted
     style: black
@@ -216,7 +216,7 @@
 
 - id: dangdang
   name: 当当
-  url: http://search.dangdang.com/?key={query}
+  url: https://search.dangdang.com/?key={query}
   shortcut:
     icon: shopping basket red inverted
     style: black
@@ -254,22 +254,6 @@
     style: black
     show: true
 
-- id: zimuku
-  name: 字幕库
-  url: http://zimuku.la/search?q={query}
-  shortcut:
-    icon: closed captioning blue inverted
-    style: black
-    show: false
-
-- id: zimuxia
-  name: FIX字幕侠
-  url: http://zimuxia.cn/?s={query}
-  shortcut:
-    icon: closed captioning yellow inverted
-    style: black
-    show: false
-
 - id: newzmz
   name: NEW字幕组
   url: https://newzmz.com/tvslist.html?keyword={query}
@@ -280,7 +264,7 @@
 
 - id: fkdy
   name: 影视
-  url: http://ifkdy.com/?q={query}
+  url: https://ifkdy.com/?q={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -299,7 +283,7 @@
 
 - id: yyetss
   name: 人人影视
-  url: http://www.yyetss.com/Search/index/?s_keys={query}
+  url: https://www.yyets.com/Search/index/?s_keys={query}
   shortcut:
     icon: film blue inverted
     style: black
@@ -331,7 +315,7 @@
 
 - id: comicat
   name: 漫猫
-  url: http://www.comicat.org/search.php?keyword={query}
+  url: https://www.comicat.org/search.php?keyword={query}
   shortcut:
     icon: magnet green inverted
     style: black
@@ -350,29 +334,5 @@
   url: https://onejav.com/search/{query}
   shortcut:
     icon: film pink inverted
-    style: black
-    show: false
-
-- id: byrsearch
-  name: 北邮人论坛1
-  url: http://123.207.168.11/byrbbs/?key={query}
-  shortcut:
-    icon: comments red inverted
-    style: black
-    show: false
-
-- id: icysearch
-  name: 北邮人论坛2
-  url: http://search.icybee.cn/bbs/?key={query}
-  shortcut:
-    icon: comments blue inverted
-    style: black
-    show: false
-
-- id: byrbt
-  name: 北邮人BT
-  url: https://byr.pt/torrents.php?search={query}
-  shortcut:
-    icon: cloud download alternate teal inverted
     style: black
     show: false
