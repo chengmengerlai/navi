@@ -1,6 +1,6 @@
 - id: baidu
   name: 百度
-  url: https://baidu.com/s?ie=utf-8&wd={query}
+  url: https://www.baidu.com/s?ie=utf-8&wd={query}
   shortcut:
     icon: paw blue inverted
     style: black
@@ -8,7 +8,7 @@
 
 - id: google
   name: 谷歌
-  url: https://google.com/search?q={query}
+  url: https://www.google.com/search?q={query}
   shortcut:
     icon: google red inverted
     style: black
@@ -32,7 +32,7 @@
 
 - id: kuaidi100
   name: 快递查询
-  url: https://kuaidi100.com/?nu={query}
+  url: https://www.kuaidi100.com/?nu={query}
   shortcut:
     icon: shipping fast green inverted
     style: black
@@ -48,7 +48,7 @@
 
 - id: baidunews
   name: 百度资讯
-  url: https://baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&word={query}
+  url: https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&word={query}
   shortcut:
     icon: newspaper blue inverted
     style: black
@@ -80,7 +80,7 @@
 
 - id: zhihu
   name: 知乎
-  url: https://zhihu.com/search?q={query}
+  url: https://www.zhihu.com/search?q={query}
   shortcut:
     icon: zhihu blue inverted
     style: black
@@ -88,7 +88,7 @@
 
 - id: douban
   name: 豆瓣
-  url: https://douban.com/search?q={query}
+  url: https://www.douban.com/search?q={query}
   shortcut:
     icon: seedling green inverted
     style: black
@@ -152,7 +152,7 @@
 
 - id: etymonline
   name: Etymonline
-  url: https://etymonline.com/index.php?search={query}
+  url: https://www.etymonline.com/index.php?search={query}
   shortcut:
     icon: language brown inverted
     style: black
@@ -160,7 +160,7 @@
 
 - id: mw
   name: Merriam-Webster
-  url: https://merriam-webster.com/dictionary/{query}
+  url: https://www.merriam-webster.com/dictionary/{query}
   shortcut:
     icon: language red inverted
     style: black
@@ -168,7 +168,7 @@
 
 - id: tianyancha
   name: 天眼查
-  url: https://tianyancha.com/search?key={query}
+  url: https://www.tianyancha.com/search?key={query}
   shortcut:
     icon: bullseye blue inverted
     style: black
@@ -208,7 +208,7 @@
 
 - id: amazon
   name: 亚马逊
-  url: https://amazon.cn/s?k={query}
+  url: https://www.amazon.cn/s?k={query}
   shortcut:
     icon: amazon yellow inverted
     style: black
@@ -299,7 +299,7 @@
 
 - id: wangpan
   name: 58网盘
-  url: https://58wangpan.com/search/kw{query}
+  url: https://www.58wangpan.com/search/kw{query}
   shortcut:
     icon: cloud download alternate green inverted
     style: black
@@ -323,7 +323,7 @@
 
 - id: lime
   name: Lime Torrents
-  url: https://limetorrents.cc/search/all/{query}/
+  url: https://www.limetorrents.cc/search/all/{query}/
   shortcut:
     icon: lemon green inverted
     style: black
