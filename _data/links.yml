@@ -466,7 +466,7 @@
   - name: 网站建设
     links:
     - name: NameSilo
-      style: teal
+      style: blue
       url: https://www.namesilo.com/
 
     - name: Let's Encrypt
