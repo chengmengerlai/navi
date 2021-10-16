@@ -4,7 +4,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/BYR-Navi/BYR-Navi.svg)][commit]
 [![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
 
-# BYR-Navi
+# Euarne-Navi
 A Light-Weight and Configurable Navigation [Website][website] Framework (for BYR)
 
 ## :triangular_ruler: Design Philosophy
@@ -41,7 +41,7 @@ gem install jekyll bundler
 3. Clone the project from GitHub.
 
 ```sh
-git clone https://github.com/BYR-Navi/BYR-Navi.git
+git clone https://github.com/chengmengerlai/navi.git
 ```
 
 4. Change into the project directory.
