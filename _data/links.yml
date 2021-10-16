@@ -366,7 +366,7 @@
       url: https://www.libreoffice.org/
 
     - name: Firefox
-      style: blue
+      style: red
       url: https://www.mozilla.org/zh-CN/firefox/
 
     - name: VirtualBox
