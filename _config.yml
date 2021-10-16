@@ -5,18 +5,18 @@ timezone: Asia/Chengdu
 lang: zh_CN
 
 title: Euarne导航 · Euarne-Navi
-alias_en: BYR-Navi
-alias_cn: 北邮人导航
-description: A Navigation Website for BYR
-keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
+alias_en: Euarne-Navi
+alias_cn: Euarne导航
+description: A Navigation Website for Euarne
+keywords: Euarne导航, Euarne-Navi, Euarne, Navi, Navigation
 url: https://navi.euarne.com
 established_at: "2020-10-01T00:00+08:00"
 
-author: iROCKBUNNY
-author_url: https://irockbunny.com
-organization: TEELAB
-organization_url: https://teelab.net
-contact: contact[at]irockbunny[dot]com
+author: Euarne
+author_url: https://me.euarne.com
+organization: Euarne
+organization_url: https://org.euarne.com
+contact: contact[at]euarne[dot]com
 
 image: /images/logo.png
 logo: /images/logo.png
