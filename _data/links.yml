@@ -29,19 +29,19 @@
 
     - name: 当当
       style: basic
-      url: http://www.dangdang.com/
+      url: https://www.dangdang.com/
 
     # - name: 严选
     #   style: basic
-    #   url: http://you.163.com/
+    #   url: https://you.163.com/
 
     - name: UNIQLO
       style: red
-      url: http://www.uniqlo.cn/
+      url: https://www.uniqlo.cn/
 
     - name: MUJI
       style: basic
-      url: http://www.muji.com.cn/
+      url: https://www.muji.com.cn/
 
     - name: IKEA
       style: yellow
@@ -55,9 +55,9 @@
       style: basic
       url: https://zaozuo.com/
 
-    - name: 锤子
+    - name: 惠普
       style: basic
-      url: http://www.smartisan.com/
+      url: https://www.hp.com/
 
     - name: 大疆
       style: black
@@ -76,22 +76,22 @@
     - name: '12306'
       icon: train red
       style: basic
-      url: http://www.12306.cn/
+      url: https://www.12306.cn/
 
     - name: 快递查询
       icon: truck olive
       style: basic
-      url: http://www.kuaidi100.com/
+      url: https://www.kuaidi100.com/
 
     - name: 大众点评
       icon: utensils orange
       style: basic
-      url: http://www.dianping.com/
+      url: https://www.dianping.com/
 
     # - name: 网易邮箱
     #   icon: envelope red
     #   style: basic
-    #   url: http://email.163.com/
+    #   url: https://email.163.com/
 
     - name: QQ邮箱
       icon: qq black
@@ -111,7 +111,7 @@
     - name: 谷歌翻译
       icon: language blue
       style: basic
-      url: https://translate.google.com/
+      url: https://translate.google.cn/
 
     - name: 百度翻译
       icon: paw blue
@@ -196,6 +196,11 @@
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
+      
+    - name: Twitter
+      icon: twitter blue
+      style: basic
+      url: https://twitter.com/
 
   - name: 学习
     links:
@@ -205,15 +210,15 @@
 
     - name: MOOC
       style: basic
-      url: http://mooc.org/
+      url: https://www.mooc.org/
 
     - name: 网易公开课
       style: basic
-      url: http://open.163.com/
+      url: https://open.163.com/
 
     - name: W3School
       style: basic
-      url: http://www.w3school.com.cn/
+      url: https://www.w3school.com.cn/
 
     - name: Stack Overflow
       icon: stack overflow orange
@@ -222,7 +227,7 @@
 
     - name: SegmentFault
       style: basic
-      url: http://segmentfault.com/
+      url: https://segmentfault.com/
 
     - name: Tutorials Point
       style: basic
@@ -235,7 +240,7 @@
 
     - name: EdX
       style: basic
-      url: https://edx.org/
+      url: https://www.edx.org/
 
     - name: 学堂在线
       style: basic
@@ -270,7 +275,7 @@
 
     - name: 芒果
       style: orange
-      url: http://mgtv.com/
+      url: https://www.mgtv.com/
 
     - name: 腾讯视频
       style: basic
@@ -297,9 +302,9 @@
       style: basic
       url: https://movie.douban.com/
 
-    - name: FIX
-      style: yellow
-      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
+    - name: 人人影视
+      style: blue
+      url: https://www.yyets.com/
 
     - name: NEW
       style: basic
@@ -309,9 +314,9 @@
       style: blue
       url: http://wanwansub.com/node/139
 
-    - name: 人人
-      style: blue
-      url: http://www.yyetss.com/
+    - name: 樱花动漫
+      style: red
+      url: https://www.yhdmp.net/
 
     # - name: 电波
     #   style: basic
@@ -338,63 +343,63 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 北邮校园
+  - name: 实用软件
     links:
-    - name: 北邮官网
+    - name: VLC
       style: basic
-      url: https://www.bupt.edu.cn/
+      url: https://www.videolan.org/
 
-    - name: 本科教务系统
+    - name: 7-Zip
       style: basic
-      url: https://jwgl.bupt.edu.cn/jsxsd/
+      url: https://www.7-zip.org/
 
-    - name: 研究生教务系统
+    - name: SumatraPDF
       style: basic
-      url: http://yjxt.bupt.edu.cn/
+      url: https://www.sumatrapdfreader.org/
 
-    - name: 教务处
+    - name: ImageGlass
       style: basic
-      url: http://jwc.bupt.edu.cn/
+      url: https://imageglass.org/
 
-    - name: 北邮人论坛
+    - name: LibreOffice
       style: basic
-      url: https://bbs.byr.cn/
+      url: https://www.libreoffice.org/
 
-    - name: 北邮人BT
+    - name: Firefox
       style: blue
-      url: https://byr.pt/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+      url: https://www.mozilla.org/zh-CN/firefox/
 
-    - name: 北邮IPTV
+    - name: VirtualBox
       style: basic
-      url: http://tv.byr.cn/
+      url: https://www.virtualbox.org/
 
-    - name: 信息门户
+    - name: OpenShot
       style: basic
-      url: http://my.bupt.edu.cn/
+      url: https://www.openshot.org/
 
-    - name: 图书馆
+    - name: Kdenlive
       style: basic
-      url: http://lib.bupt.edu.cn/
+      url: https://kdenlive.org
 
-    - name: 北邮贴吧
+    - name: GIMP
       style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
+      url: https://www.gimp.org/
 
-    - name: 校园网
+    - name: Debian
       style: basic
-      url: http://nic.bupt.edu.cn/
+      url: https://www.debian.org/
 
-    - name: 北邮邮箱
+    - name: PeaZip
       style: basic
-      url: http://mail.bupt.edu.cn/
+      url: https://peazip.github.io/
 
-    - name: VPN服务
+    - name: Shotcut
       style: basic
-      url: https://nic.bupt.edu.cn/list/list.php?p=5_13_1
+      url: https://www.shotcut.org/
 
-    - name: 空闲自习室查询
+    - name: Thunderbird
       style: basic
-      url: http://buptclass.com/
+      url: https://www.thunderbird.net/
 
   - name: 校园助手
     links:
