@@ -283,7 +283,7 @@
 
 - id: yyetss
   name: 人人影视
-  url: https://www.yyets.com/Search/index/?s_keys={query}
+  url: https://www.yyets.com/?s={query}
   shortcut:
     icon: film blue inverted
     style: black
