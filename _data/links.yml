@@ -379,15 +379,15 @@
 
     - name: Kdenlive
       style: basic
-      url: https://kdenlive.org
+      url: https://kdenlive.org/
 
     - name: GIMP
       style: basic
       url: https://www.gimp.org/
 
-    - name: Debian
+    - name: Blender
       style: basic
-      url: https://www.debian.org/
+      url: https://www.blender.org/
 
     - name: PeaZip
       style: basic
@@ -397,71 +397,70 @@
       style: basic
       url: https://www.shotcut.org/
 
-    - name: Thunderbird
+    - name: OBS Studio
       style: basic
-      url: https://www.thunderbird.net/
+      url: https://obsproject.com/
 
-  - name: 校园助手
+  - name: 发现世界
     links:
-    - name: 空余教室查询
+    - name: 少数派
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
+      url: https://sspai.com/
+    - name: Google News
+      style: basic
+      url: https://news.google.com/
 
-    - name: 辅修专业
+    - name: 小鸡词典 
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+      url: https://jikipedia.com/
+    
+    - name: 萌娘百科
+      style: basic
+      url: https://www.moegirl.org/
 
-    - name: 毕业设计
+    - name: 知微事见
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+      url: https://ef.zhiweidata.com/
 
-    - name: 学生校际选修
+    - name: 思谋学术
       style: basic
-      url: http://www.xueyuanlu.cn/
+      url: https://ac.scmor.com/
 
-    - name: 创新学分
+    - name: 有趣网址
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
+      url: https://youquhome.com/
 
-    - name: 课表查询
+    - name: 十万个为什么
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
+      url: https://10why.net/
 
-    - name: 考表查询
+    - name: 华尔街见闻
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
+      url: https://wallstreetcn.com/
 
-    - name: 出国成绩单办理
+    - name: 钛媒体
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
+      url: https://www.tmtpost.com/
 
-    - name: 教学事务流程
+    - name: Engadget
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
+      url: https://cn.engadget.com/
 
-    - name: 创新实践平台
+    - name: 雷锋网
       style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
+      url: https://www.leiphone.com/
 
-    - name: 申请护照通行证
+    - name: 镁客网
       style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+      url: https://www.im2maker.com/
 
-    - name: 补办学生证
+    - name: 时代在线
       style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+      url: https://www.time-weekly.com/
 
-    - name: 校园一卡通
+    - name: 神奇宝贝百科
       style: basic
-      url: http://ecard.bupt.edu.cn/
-
-    - name: 办公电话
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
-
-    - name: 校历
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
+      url: https://wiki.52poke.com/
 
   - name: 网站建设
     links:
