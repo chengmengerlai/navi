@@ -136,9 +136,9 @@
       style: basic
       url: https://www.gaoding.com/
 
-    - name: MacWk
+    - name: Archive
       style: basic
-      url: https://macwk.com/
+      url: https://archive.org/
 
   - name: 社交
     links:
@@ -500,7 +500,7 @@
 
     - name: Cloudflare
       style: basic
-      url: https://www.cloudflarne.com/
+      url: https://www.cloudflare.com/
     
     - name: Netlify
       style: basic
