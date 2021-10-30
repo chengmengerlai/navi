@@ -1,7 +1,7 @@
-[![Build Status](https://app.travis-ci.com/BYR-Navi/BYR-Navi.svg)][travis-ci]
-[![Website](https://img.shields.io/website-up-down-green-red/https/byr-navi.com.svg)][website]
-[![License](https://img.shields.io/github/license/BYR-Navi/BYR-Navi.svg)][license]
-[![Last Commit](https://img.shields.io/github/last-commit/BYR-Navi/BYR-Navi.svg)][commit]
+[![Build Status](https://app.travis-ci.com/chengmengerlai/navi.svg)][travis-ci]
+[![Website](https://img.shields.io/website-up-down-green-red/https/navi.euarne.com.svg)][website]
+[![License](https://img.shields.io/github/license/chengmengerlai/navi.svg)][license]
+[![Last Commit](https://img.shields.io/github/last-commit/chengmengerlai/navi.svg)][commit]
 [![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
 
 # Euarne-Navi
