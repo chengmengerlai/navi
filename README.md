@@ -8,7 +8,7 @@
 A Light-Weight and Configurable Navigation [Website][website] Framework
 
 ## :triangular_ruler: Design Philosophy
-This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed **previously** using [GitHub Pages][github-pages] (while currently running on a [Linode][linode] VPS).
+This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed **previously** using [GitHub Pages][github-pages] (while currently running on a [Vercel][vercel]).
 
 The whole project is designed and built with high flexibility of configuration and customization.
 You can either configure it by modifying the `_config.yml` file or customize it by replacing the content of the `*.yml` files in the `_data` folder with your own data.
@@ -26,7 +26,7 @@ Before you start, you should have some basic understanding of the following:
 - YAML format
 - Liquid (Template Engine)
 - Ruby
-- UNIX/Linux Shell Script
+- Linux Shell Script
 
 ### Quick Start
 
@@ -47,7 +47,7 @@ git clone https://github.com/chengmengerlai/navi.git
 4. Change into the project directory.
 
 ```sh
-cd BYR-Navi
+cd Euarne-Navi
 ```
 
 5. Install required gems in the `Gemfile` using Bundler.
@@ -96,16 +96,16 @@ Donate [here][donate].
 - [GeoIP][geoip]
 - [Jekyll][jekyll]
 - [Let&rsquo;s Encrypt][letsencrypt]
-- [Linode][linode]
+- [Vercel][vercel]
 
 ## :copyright: License
 [MIT License][license]
 
-[travis-ci]: https://app.travis-ci.com/BYR-Navi/BYR-Navi "Travis CI"
-[website]: https://byr-navi.com/ "Website"
-[license]: https://github.com/BYR-Navi/BYR-Navi/blob/master/LICENSE "License"
-[commit]: https://github.com/BYR-Navi/BYR-Navi/commits/master "Last Commit"
-[donate]: https://byr-navi.com/donate/ "Donate"
+[travis-ci]: https://app.euarne.com/chengmengerlai/navi "Travis CI"
+[website]: https://navi.euarne.com/ "Website"
+[license]: https://github.com/chengmengerlai/navi/blob/master/LICENSE "License"
+[commit]: https://github.com/chengmengerlai/navi/commits/master "Last Commit"
+[donate]: https://navi.euarne.com/donate/ "Donate"
 
 [fomantic]: https://fomantic-ui.com/ "Fomantic UI"
 [fomantic-doc]: https://fomantic-ui.com/introduction/getting-started.html "Fomantic UI Docs"
@@ -130,4 +130,4 @@ Donate [here][donate].
 [localhost-4000]: http://localhost:4000 "Local Host (Port: 4000)"
 [github-pages]: https://pages.github.com/ "GitHub Pages"
 [letsencrypt]: https://letsencrypt.org/ "Let&rsquo;s Encrypt"
-[linode]: https://www.linode.com/ "Linode"
+[vercel]: https://www.vercel.com/ "Vercel"
