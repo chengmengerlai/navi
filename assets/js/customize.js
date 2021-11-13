@@ -3,7 +3,7 @@
 function setJSONCookie(name, value) {
     Cookies.set(name, JSON.stringify(value), {
         expires: 365,
-        domain: '.byr-navi.com',
+        domain: 'navi.euarne.com',
         secure: true
     });
 };
@@ -15,14 +15,14 @@ function updateJSONCookie(name, key, value) {
 };
 
 // initialize cookie
-if (Cookies.get('byr_navi_search_shortcuts') === undefined || Cookies.get('byr_navi_search_shortcuts') === '') {
+if (Cookies.get('euarne_navi_search_shortcuts') === undefined || Cookies.get('euarne_navi_search_shortcuts') === '') {
     let shortcuts = {};
     $('.ui.button.shortcut-toggle-show').each(function () {
         shortcuts[$(this).data('search-service-id')] = $(this).data('show');
     });
-    setJSONCookie('byr_navi_search_shortcuts', shortcuts);
+    setJSONCookie('euarne_navi_search_shortcuts', shortcuts);
 } else {
-    let shortcuts = JSON.parse(Cookies.get('byr_navi_search_shortcuts'));
+    let shortcuts = JSON.parse(Cookies.get('euarne_navi_search_shortcuts'));
     $('.shortcut').each(function () {
         if (shortcuts[$(this).attr('id')]) {
             $(`#${$(this).attr('id')} .shortcut-visibility`).addClass('active').text('显示');
@@ -55,7 +55,7 @@ $('.ui.button.shortcut-toggle-show').each(function () {
             });
             $(`#${$(this).data('search-service-id')} .shortcut-visibility`).removeClass('active').text('隐藏');
             $(`#${$(this).data('search-service-id')} .shortcut-toggle-show .icon`).addClass('slash');
-            updateJSONCookie('byr_navi_search_shortcuts', $(this).data('search-service-id'), false);
+            updateJSONCookie('euarne_navi_search_shortcuts', $(this).data('search-service-id'), false);
             $('body').toast({
                 class: 'success',
                 showIcon: 'eye slash',
@@ -70,7 +70,7 @@ $('.ui.button.shortcut-toggle-show').each(function () {
             });
             $(`#${$(this).data('search-service-id')} .shortcut-visibility`).addClass('active').text('显示');
             $(`#${$(this).data('search-service-id')} .shortcut-toggle-show .icon`).removeClass('slash');
-            updateJSONCookie('byr_navi_search_shortcuts', $(this).data('search-service-id'), true);
+            updateJSONCookie('euarne_navi_search_shortcuts', $(this).data('search-service-id'), true);
             $('body').toast({
                 class: 'success',
                 showIcon: 'eye',
@@ -83,8 +83,8 @@ $('.ui.button.shortcut-toggle-show').each(function () {
 
 // reset button
 $('#reset-cookie').click(function () {
-    Cookies.remove('byr_navi_search_shortcuts', {
-        domain: '.byr-navi.com'
+    Cookies.remove('euarne_navi_search_shortcuts', {
+        domain: 'navi.euarne.com'
     });
     location.reload(true);
 });
