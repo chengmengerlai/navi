@@ -47,7 +47,7 @@ git clone https://github.com/chengmengerlai/navi.git
 4. Change into the project directory.
 
 ```sh
-cd Euarne-Navi
+cd navi
 ```
 
 5. Install required gems in the `Gemfile` using Bundler.
