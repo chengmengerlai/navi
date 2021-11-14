@@ -484,15 +484,15 @@
       style: basic
       url: https://pages.github.com/
     
-    - name: 论坛App
+    - name: Firefox iOS
       icon: app store
       style: black
-      url: https://apps.apple.com/cn/app/id1115232927
+      url: https://apps.apple.com/app/firefox-private-safe-browser/id989804926
 
-    - name: 论坛App
+    - name: Firefox Android
       icon: google play
       style: black
-      url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
+      url: https://play.google.com/store/apps/details?id=org.mozilla.firefox&referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org
 
     - name: ResellerClub
       style: basic
