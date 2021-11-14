@@ -444,7 +444,7 @@
 
     - name: Engadget
       style: basic
-      url: https://cn.engadget.com/
+      url: https://www.engadget.com/
 
     - name: 雷锋网
       style: basic
