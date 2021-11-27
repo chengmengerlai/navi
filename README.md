@@ -99,7 +99,7 @@ Donate [here][donate].
 - [Vercel][vercel]
 
 ## :copyright: License
-[MIT License][license]
+[BSD 3-Clause License][license]
 
 [travis-ci]: https://app.euarne.com/chengmengerlai/navi "Travis CI"
 [website]: https://navi.euarne.com/ "Website"
